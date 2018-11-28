@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+Thibaud
+
 try 1
 =======
 alternative approach 
->>>>>>> dev2
+
